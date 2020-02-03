@@ -12,7 +12,7 @@ public class App
         //Disconnecting from database
         a.disconnect();
         //
-        a.getEmployee(1);
+        a.getEmployee(255530);
     }
 
     /**
